@@ -1,0 +1,2 @@
+# scraping_img_xiachufang
+代码小白的课程作业1 用BeautifulSoup爬取下厨房网页图片
